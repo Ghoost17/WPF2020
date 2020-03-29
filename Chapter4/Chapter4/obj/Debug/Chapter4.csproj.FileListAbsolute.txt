@@ -1,0 +1,15 @@
+C:\Users\7777\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.exe.config
+C:\Users\7777\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.exe
+C:\Users\7777\source\repos\Chapter4\Chapter4\bin\Debug\Chapter4.pdb
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.csprojAssemblyReference.cache
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\MainWindow.g.cs
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\App.g.cs
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4_MarkupCompile.cache
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4_MarkupCompile.lref
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\MainWindow.baml
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.g.resources
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.Properties.Resources.resources
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.csproj.GenerateResource.cache
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.csproj.CoreCompileInputs.cache
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.exe
+C:\Users\7777\source\repos\Chapter4\Chapter4\obj\Debug\Chapter4.pdb
