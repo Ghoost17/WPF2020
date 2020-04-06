@@ -1,0 +1,7 @@
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\bin\Debug\Chapter_6.exe.config
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\bin\Debug\Chapter_6.exe
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\bin\Debug\Chapter_6.pdb
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\obj\Debug\Chapter_6.csprojAssemblyReference.cache
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\obj\Debug\Chapter_6.csproj.CoreCompileInputs.cache
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\obj\Debug\Chapter_6.exe
+C:\Users\7777\source\repos\Chapter_6\Chapter_6\obj\Debug\Chapter_6.pdb
