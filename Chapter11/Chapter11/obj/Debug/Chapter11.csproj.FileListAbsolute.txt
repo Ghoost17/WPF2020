@@ -1,0 +1,7 @@
+C:\Users\7777\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.exe.config
+C:\Users\7777\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.exe
+C:\Users\7777\source\repos\Chapter11\Chapter11\bin\Debug\Chapter11.pdb
+C:\Users\7777\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.csprojAssemblyReference.cache
+C:\Users\7777\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.csproj.CoreCompileInputs.cache
+C:\Users\7777\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.exe
+C:\Users\7777\source\repos\Chapter11\Chapter11\obj\Debug\Chapter11.pdb

@@ -1,0 +1,7 @@
+C:\Users\7777\source\repos\Chapter12\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\7777\source\repos\Chapter12\Chapter12\bin\Debug\Chapter12.exe
+C:\Users\7777\source\repos\Chapter12\Chapter12\bin\Debug\Chapter12.pdb
+C:\Users\7777\source\repos\Chapter12\Chapter12\obj\Debug\Chapter12.csprojAssemblyReference.cache
+C:\Users\7777\source\repos\Chapter12\Chapter12\obj\Debug\Chapter12.csproj.CoreCompileInputs.cache
+C:\Users\7777\source\repos\Chapter12\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\7777\source\repos\Chapter12\Chapter12\obj\Debug\Chapter12.pdb
